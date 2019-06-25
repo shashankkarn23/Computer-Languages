@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/JavaPdfButtonpage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:scrollbars="vertical"
+    tools:context=".Activities.JavaPdfActivity">
+
+    <LinearLayout
+        android:id="@+id/JAVAPdfButtonpageLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/JAVAStudyLabel"
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/random1" />
+
+        <Button
+            android:id="@+id/JAVATopic1"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_width="match_parent"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="65dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="1. Introduction"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/JAVATopic2"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="15dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="2. Basic"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/JAVATopic3"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="3.OOPS Concept"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/JAVATopic4"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="4.Control Statement"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/JAVATopic5"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="5. java inheritance"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/JAVATopic6"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="6.Java Abstraction"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/JAVATopic7"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="7.Java Encapsulation"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/JAVATopic8"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="8.Java Polymorphism"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/JAVATopic9"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="9.java array And string"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/JAVATopic10"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="10.java inner class"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+    </LinearLayout>
+
+
+</ScrollView>

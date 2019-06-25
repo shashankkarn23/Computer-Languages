@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.PdfcActivity">
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView6"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView7"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView8"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView9"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView10"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView11"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView12"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView13"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView15"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView16"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView17"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView18"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView19"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView20"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView22"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView23"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView24"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView25"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView26"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView27"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView28"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView29"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView30"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView31"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView32"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView33"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView34"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView35"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView36"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView37"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView38"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView39"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+     <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView40"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</android.support.constraint.ConstraintLayout>

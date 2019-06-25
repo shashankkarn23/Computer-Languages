@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/afterLogin"
+    android:background="@drawable/random10"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.AfterLogin">
+
+    <ImageView
+        android:id="@+id/notesneighbourlabel2"
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/random1" />
+
+    <Button
+        android:id="@+id/pdfButton1"
+        android:background="@drawable/random5"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/notesneighbourlabel2"
+        android:layout_width="match_parent"
+        android:layout_height="165dp" />
+
+    <Button
+        android:id="@+id/videoTutorial1"
+        android:background="@drawable/random6"
+        android:layout_marginBottom="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/pdfButton1"
+        android:layout_width="match_parent"
+        android:layout_height="165dp" />
+    <Button
+        android:id="@+id/pdfButton2"
+        android:background="@drawable/random5"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/notesneighbourlabel2"
+        android:layout_width="match_parent"
+        android:layout_height="165dp" />
+
+    <Button
+        android:id="@+id/videoTutorial2"
+        android:background="@drawable/random6"
+        android:layout_marginBottom="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/pdfButton2"
+        android:layout_width="match_parent"
+        android:layout_height="165dp" />
+
+    <Button
+        android:id="@+id/pdfButton3"
+        android:background="@drawable/random5"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/notesneighbourlabel2"
+        android:layout_width="match_parent"
+        android:layout_height="165dp" />
+
+    <Button
+        android:id="@+id/videoTutorial3"
+        android:background="@drawable/random6"
+        android:layout_marginBottom="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/pdfButton3"
+        android:layout_width="match_parent"
+        android:layout_height="165dp" />
+
+    <Button
+        android:id="@+id/pdfButton4"
+        android:background="@drawable/random5"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/notesneighbourlabel2"
+        android:layout_width="match_parent"
+        android:layout_height="165dp" />
+
+    <Button
+        android:id="@+id/videoTutorial4"
+        android:background="@drawable/random6"
+        android:layout_marginBottom="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/pdfButton4"
+        android:layout_width="match_parent"
+        android:layout_height="165dp" />
+
+
+
+
+
+</RelativeLayout>

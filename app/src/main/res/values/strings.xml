@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MagicLearn</string>
+    <string name="first_blog_content">Steven Jobs was born February 24, 1955, in San Francisco, California, and was adopted by Paul and Clara Jobs. He grew up with one sister, Patty. Paul Jobs was a machinist and fixed cars as a hobby. Jobs remembers his father as being very skilled at working with his hands.
+
+In 1961 the family moved to Mountain View, California. This area, just south of Palo Alto, California, was becoming a center for electronics. Electronics form the basic elements of devices such as radios, televisions, stereos, and computers. At that time people started to refer to the area as "Silicon Valley." This is because a substance called silicon is used in the manufacturing of electronic parts.
+
+As a child, Jobs preferred doing things by himself. He swam competitively, but was not interested in team sports or other group activities. He showed an early interest in electronics and gadgetry. He spent a lot of time working in the garage workshop of a neighbor who worked at Hewlett-Packard, an electronics manufacturer.
+
+Jobs also enrolled in the Hewlett-Packard Explorer Club. There he saw engineers demonstrate new products, and he saw his first computer at the age of twelve. He was very impressed, and knew right away that he wanted to work with computers.
+
+While in high school Jobs attended lectures at the Hewlett-Packard plant. On one occasion he boldly asked William Hewlett (1931–2001), the president, for some parts he needed to complete a class project. Hewlett was so impressed he gave Jobs the parts, and offered him a summer internship at Hewlett-Packard.
+
+</string>
+
+    <string name="DAA_Notes_Desc">C was originally developed at Bell Labs by Dennis Ritchie, between 1972 and 1973. It was created to make utilities running on Unix. Later, it was applied to re-implementing the kernel of the Unix operating system.
+        During the 1980s, C gradually gained popularity. Nowadays, it is one of the most widely used programming languages,
+        with C compilers from various vendors available for the majority of existing computer architectures and operating systems.
+
+</string>
+
+    <string name="DBMS_Notes_Desc">C++ is a general-purpose programming language that was developed by Bjarne Stroustrup as an extension of the C language, or "C with Classes". It has imperative,
+        object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.
+        It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, Microsoft, Intel, and IBM, so it is available on many platforms.
+
+</string>
+    <string name="Notes_by_adarsh">Java was originally developed by Canadian James Gosling at Sun Microsystems (which has since been acquired by Oracle) and released in 1995 as a core component of Sun Microsystems Java platform.
+        The original and reference implementation Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licenses.
+    </string>
+</resources>

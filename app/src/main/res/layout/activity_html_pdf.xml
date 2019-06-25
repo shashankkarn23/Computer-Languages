@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/HtmlPDf"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:scrollbars="vertical"
+    tools:context=".Activities.HtmlActivityPdf">
+
+    <LinearLayout
+        android:id="@+id/HtmlPdfButtonpageLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/HtmlStudyLabel"
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/random1" />
+
+        <Button
+            android:id="@+id/HtmlTopic1"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_width="match_parent"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="65dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="1. introduction"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/HtmlTopic2"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="15dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="2. heading"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/HtmlTopic3"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="3. paragraph"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/HtmlTopic4"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="4. text formatting tags"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/HtmlTopic5"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="5. Link"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/HtmlTopic6"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="6. images"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/HtmlTopic7"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="7. tables"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/HtmlTopic8"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="8. forms"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/HtmlTopic9"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="9. lists"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+        <Button
+            android:id="@+id/HtmlTopic10"
+            android:layout_width="match_parent"
+            android:gravity="left|center_vertical"
+            android:padding="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginLeft="35dp"
+            android:layout_height="52dp"
+            android:background="@drawable/reg_btn_style"
+            android:text="10. iframes"
+            android:textAllCaps="true"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/PdfButtonpage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:scrollbars="vertical"
+    tools:context=".Activities.PdfButtons">
+
+
+<LinearLayout
+    android:id="@+id/PdfButtonpageLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical">
+    <ImageView
+        android:id="@+id/StudyLabel"
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/random1" />
+
+
+    <Button
+        android:id="@+id/Topic1"
+        android:gravity="left|center_vertical"
+        android:padding="10dip"
+        android:layout_width="match_parent"
+        android:layout_marginRight="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="65dp"
+        android:layout_height="52dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="1.C  Introduction"
+        android:textAllCaps="true"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        />
+    <Button
+        android:id="@+id/Topic2"
+        android:layout_width="match_parent"
+        android:gravity="left|center_vertical"
+        android:padding="10dip"
+        android:layout_marginRight="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="15dp"
+        android:layout_height="52dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="2.Example of C Program"
+        android:textAllCaps="true"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        />
+    <Button
+        android:id="@+id/Topic3"
+        android:layout_width="match_parent"
+        android:gravity="left|center_vertical"
+        android:padding="10dip"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_height="52dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="3.Variable and operator"
+        android:textAllCaps="true"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/Topic4"
+        android:layout_width="match_parent"
+        android:gravity="left|center_vertical"
+        android:padding="10dip"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_height="52dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="4.Input and output"
+        android:textAllCaps="true"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/Topic5"
+        android:layout_width="match_parent"
+        android:gravity="left|center_vertical"
+        android:padding="10dip"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_height="52dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="5.Flow of control"
+        android:textAllCaps="true"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/Topic6"
+        android:layout_width="match_parent"
+        android:gravity="left|center_vertical"
+        android:padding="10dip"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_height="52dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="6.Function"
+        android:textAllCaps="true"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/Topic7"
+        android:layout_width="match_parent"
+        android:gravity="left|center_vertical"
+        android:padding="10dip"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_height="52dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="7.scope,block and variable"
+        android:textAllCaps="true"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/Topic8"
+        android:layout_width="match_parent"
+        android:gravity="left|center_vertical"
+        android:padding="10dip"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_height="52dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="8.Array,pointor and string"
+        android:textAllCaps="true"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/Topic9"
+        android:layout_width="match_parent"
+        android:gravity="left|center_vertical"
+        android:padding="10dip"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_height="52dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="9.Structure And union"
+        android:textAllCaps="true"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/Topic10"
+        android:layout_width="match_parent"
+        android:gravity="left|center_vertical"
+        android:padding="10dip"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_height="52dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="10.files"
+        android:textAllCaps="true"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        />
+
+</LinearLayout>
+</ScrollView>

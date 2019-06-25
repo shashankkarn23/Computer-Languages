@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/firstpage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:scrollbars="vertical"
+    tools:context=".Activities.VideoTutorial">
+
+    <RelativeLayout
+        android:id="@+id/firstpagerelative3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/notesneighbourlabel3"
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/random1" />
+
+    <RelativeLayout
+        android:id="@+id/imageC"
+        android:layout_below="@id/notesneighbourlabel3"
+        android:layout_centerHorizontal="true"
+        android:layout_width="230dp"
+        android:layout_height="258dp">
+
+    <Button
+            android:id="@+id/CButton"
+            android:background="@drawable/random7"
+            android:layout_margin="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/imageCpp"
+        android:layout_below="@id/imageC"
+        android:layout_centerHorizontal="true"
+        android:layout_width="190dp"
+        android:layout_height="218dp">
+
+        <Button
+            android:id="@+id/CPlusPlusTutorial"
+            android:background="@drawable/random8"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/JavaTutorial"
+            android:background="@drawable/random9"
+            android:layout_margin="15dp"
+            android:layout_below="@+id/imageCpp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RelativeLayout
+            android:id="@+id/imageHtml"
+            android:layout_width="256dp"
+            android:layout_height="256dp"
+            android:layout_margin="25dp"
+            android:layout_below="@id/JavaTutorial"
+            android:layout_centerHorizontal="true">
+
+            <Button
+                android:id="@+id/HtmlTutorial"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="25dp"
+                android:background="@drawable/random11" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</ScrollView>
